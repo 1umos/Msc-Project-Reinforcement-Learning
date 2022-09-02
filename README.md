@@ -1,4 +1,4 @@
-# Msc-Project
+# Msc-Project-Reinforcement Learning
 TAMER: Training an Agent Manually via Evaluative Reinforcement
 
 COMP6200
